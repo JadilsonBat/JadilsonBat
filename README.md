@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JadilsonBat
+- 👀 I’m interested in Python, Javascript, SQL, Data Science, Database, HTML, and PHP.
+- 🌱 I’m currently learning Python and SQL at the moment.
+- 📫 How to reach me ... E-mail: jadilsonb.o.junior@gmail.com
+- 
